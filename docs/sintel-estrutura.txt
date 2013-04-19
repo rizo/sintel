@@ -1,0 +1,28 @@
+
+
+Estruturação da página inicial do site:
+
+    - Categorias: [Ensino e Educação, Cultura, Ciência, Arquitectura,
+                   Saúde, Funções sociais, Justiça, Comunicação social]
+
+    - SINTEL:
+        - Definição e descrição
+        - Resolução política
+        - Direcção (Direcções de Sectores)
+        - Linhas de acção
+
+    - Publicações / disscução
+        - Textos relevantes de diversas publicações do SINTEL
+        - Textos de opinião
+
+    - Arquivo artístico / exposição para venda
+
+    - Forum
+
+    - Notícias / Artigos: Listagem cronológica dos textos, arquivados
+                          em categorías ou publicações.
+
+    - Destaques / Actividades: Sumário dos destaques e iniciatívas.
+
+    - Contactos
+
